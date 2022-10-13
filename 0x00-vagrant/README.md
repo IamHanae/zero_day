@@ -6,7 +6,7 @@ Tasks from the **vagrant** project, carried during the **Full Stack Software Eng
 * Scripts written in Bash 4.4.23(1)
 * Tested on Ubuntu 20.04
 
-## Projects
+## Files
 All the following files are scripts written for the project tasks:
 
 | Filename | Description |
