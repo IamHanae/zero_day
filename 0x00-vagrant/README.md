@@ -1,6 +1,6 @@
 # Vagrant
 
-Tasks from the **vagrant** project, carried during **Full Stack Software Engineering** program by **[ALX](https://www.alxafrica.com)**.
+Tasks from the **vagrant** project, carried during the **Full Stack Software Engineering** program by **[ALX](https://www.alxafrica.com)**.
 
 ## Technologies
 * Scripts written in Bash 4.4.23(1)
