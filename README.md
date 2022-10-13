@@ -1,4 +1,4 @@
-# Zero Day
+# 0-Day
 
 The **vagrant** project, carried during **Full Stack Software Engineering** program by **[ALX](https://www.alxafrica.com)**.
 
